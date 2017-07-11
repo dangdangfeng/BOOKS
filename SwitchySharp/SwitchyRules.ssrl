@@ -1,0 +1,13 @@
+; Summary: Proxy Switchy! Exported Rule List
+; Date: 2017-7-11
+; Website: http://bit.ly/proxyswitchy
+
+#BEGIN
+
+[wildcard]
+*://*.csdn.net/*
+
+[regexp]
+
+
+#END
